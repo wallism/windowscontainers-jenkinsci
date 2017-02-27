@@ -1,4 +1,4 @@
-FROM windows-java:jre1.8.0_91
+FROM nano-java:jre1.8.0_91
 
 SHELL ["powershell"]
 ARG BASE_URL
