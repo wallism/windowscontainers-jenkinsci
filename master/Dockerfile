@@ -1,4 +1,4 @@
-FROM windows-java:jre1.8.0_91
+FROM nano-java:jre1.8.0_91
 
 ENV HOME /jenkins
 ENV JENKINS_VERSION 2.0
